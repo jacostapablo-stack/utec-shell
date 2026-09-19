@@ -10,3 +10,4 @@ Este directorio contiene scripts para trabajar con la shell.
 `8-firstdelete` elimina el archivo `betty` que esta en `/tmp/my_first_directory`.
 `9-firstdirdeletion` elimina el directorio `my_first_directory` que esta en `/tmp`.
 `10-back` cambia el directrorio de trabajo al anterior.
+`11-lists` muestra en formato largo los archivos, incluidos los ocultos, del directorio actual, del directorio padre, `/boot`.
