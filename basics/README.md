@@ -2,7 +2,5 @@ Este directorio contiene scripts para trabajar con la shell.
 `0-current_working_directory` imprime la ruta absoluta del directorio de trabajo actual.
 `1-listit` muestra el contenido del directorio de trabajo actual.
 `2-bring_me_home` cambia el directorio de trabajo al directorio home del usuario.
-`3-lisititfiles` lista el contenido del directorio de trabajo actual en formato largo.
-
-
-
+`3-listfiles` lista el contenido del directorio de trabajo actual en formato largo.
+`4-listmorefiles` lista el contenido del directorio de trabajo actual en formato largo, incluidos los archivos ocultos.
