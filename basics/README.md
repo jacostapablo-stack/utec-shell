@@ -6,5 +6,5 @@ Este directorio contiene scripts para trabajar con la shell.
 `4-listmorefiles` lista el contenido del directorio de trabajo actual en formato largo, incluidos los archivos ocultos.
 `5-listfilesdigitonly` lista el contenido del directorio de trabajo actual en formato largo, incluidos los archivos ocultos, mostrando los IDs de usuario y grupo numericamente.
 `6-firstdirectory` crea el directorio `/tmp/my_first_directory`
-
+`7-movethatfile `mueve el archivo `/tmp/betty` al directorio `/tmp/my_first_directory`.
 
