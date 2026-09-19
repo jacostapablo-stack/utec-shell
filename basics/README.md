@@ -12,3 +12,4 @@ Este directorio contiene scripts para trabajar con la shell.
 `10-back` cambia el directrorio de trabajo al anterior.
 `11-lists` muestra en formato largo los archivos, incluidos los ocultos, del directorio actual, del directorio padre, `/boot`.
 `12-file_type` imprime  el tipo del archivo `/tmp/iamafile`.
+`13-symbolic_link` crea un enlace simbolico llamado `__ls__` que apunta a `/bin/ls`.
