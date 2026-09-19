@@ -8,3 +8,4 @@ Este directorio contiene scripts para trabajar con la shell.
 `6-firstdirectory` crea el directorio `/tmp/my_first_directory`
 `7-movethatfile` mueve el archivo `/tmp/betty` al directorio `/tmp/my_first_directory`.
 `8-firstdelete` elimina el archivo `betty` que esta en `/tmp/my_first_directory`.
+`9-firstdirdeletion` elimina el directorio `my_first_directory` que esta en `/tmp`.
