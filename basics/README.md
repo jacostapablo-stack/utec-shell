@@ -16,3 +16,4 @@ Este directorio contiene scripts para trabajar con la shell.
 `14-copy_html` copia al directorio padre los archivos `.html` nuevos o mas recientes del directorio actual.
 `15-lets_move` mueve todos los archivos que comiencen con una letra mayuscula a `/tmp/u`.
 `16-clean_emacs` elimina todos los archivos del direcrtorio de trabajo actual que terminan con el caracter `~`.
+`17-tree` crea los directorios `welcome/to/school`.
