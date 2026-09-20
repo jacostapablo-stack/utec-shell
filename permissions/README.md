@@ -7,3 +7,4 @@
 `6-multiple_permissions` otorga permiso de ejecucion al propietario y al grupo del propietario, y permiso de lectura a otros del archivo al archivo `hello`.
 `7-everybody`otorga permiso de ejecucion al propiertario, al grupo propietario, y otros usuarios, sobre el  archivo `hello`.
 `8-James_Bond`quita todos los permisos para propietario y grupo propietario y otorga a otros todos los permisos sobre el archivo `hello`
+`9-Jhon_Doe` establece en `753` el modo del archivo `hello`.
