@@ -9,3 +9,4 @@
 `8-James_Bond`quita todos los permisos para propietario y grupo propietario y otorga a otros todos los permisos sobre el archivo `hello`
 `9-Jhon_Doe` establece en `753` el modo del archivo `hello`.
 `10-mirror_permissions` establece el modo del archivo `hello` igual al modo del archivo `olleh`.
+`11-directories_permissions` agrega permisos de ejecucion a todos los subdirectorios del directorio actual para el propietario, el grupo propietario, y todos los demas usuarios sin modificar los archivos.
