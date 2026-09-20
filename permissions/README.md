@@ -5,4 +5,4 @@
 `4-empty` crea un archivo vacio llamado `hello`.
 `5-execute` otorga permiso de ejecucion al propietario del archivo `hello`.
 `6-multiple_permissions` otorga permiso de ejecucion al propietario y al grupo del propietario, y permiso de lectura a otros del archivo al archivo `hello`.
-q
+`7-everybody`otorga permiso de ejecucion al propiertario, al grupo propietario, y otros usuarios, sobre el  archivo `hello`.
