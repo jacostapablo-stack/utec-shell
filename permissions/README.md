@@ -4,3 +4,5 @@
 `3-new_owner` cambia el propietario del archivo `hello` al usuario `betty`.
 `4-empty` crea un archivo vacio llamado `hello`.
 `5-execute` otorga permiso de ejecucion al propietario del archivo `hello`.
+`6-multiple_permissions` otorga permiso de ejecucion al propietario y al grupo del propietario, y permiso de lectura a otros del archivo al archivo `hello`.
+q
