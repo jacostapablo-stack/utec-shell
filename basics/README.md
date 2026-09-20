@@ -14,3 +14,4 @@ Este directorio contiene scripts para trabajar con la shell.
 `12-file_type` imprime  el tipo del archivo `/tmp/iamafile`.
 `13-symbolic_link` crea un enlace simbolico llamado `__ls__` que apunta a `/bin/ls`.
 `14-copy_html` copia al directorio padre los archivos `.html` nuevos o mas recientes del directorio actual.
+`15-lets_move` mueve todos los archivos que comiencen con una letra mayuscula a `/tmp/u`.
