@@ -13,3 +13,4 @@
 `12-directory_permissions` crea un directorio de trabajo llamado `my_dir` con permisos `751`.
 `13-change_group`cambia el grupo propietario a `school` para el archivo `hello`.
 `14-change_owner_and_group` cambia el propietario a `vincent` y el grupo propietario a `staff` de todos los archivos y directorios en el directorio de trabajo.
+`15-symbolic_link_permissions` cambia el propietario y el grupo propietario de `_hello` a `vincent` y `staff`, respectivamente.
