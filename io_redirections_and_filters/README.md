@@ -1,1 +1,2 @@
 `0-hello_world` imrime "Hello, World" seguido de una nueva linea en la salida estandar.
+`1-confused_smiley` muestra un emoticono confundido `"(Ôo)'`.
