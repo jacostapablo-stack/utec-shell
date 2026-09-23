@@ -5,3 +5,4 @@
 `4-lastlines` muestra las ultimas 10 lineas de `/etc/passwd`.
 `5-firstlines` muestra las primeras 10 lineas de `/etc/passwd`.
 `6-third_line` muestra la tercera linea de `iacta`.
+`7-file` crea un archivo llamado llamado exactamente `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` que contiene el texto `Best School`y un salto de linea. 
