@@ -3,3 +3,4 @@
 `2-hellofile`muestra el contenido de `/etc/passwd` en la salida estandar.
 `3-twofiles` muestra el contenido de `/etc/passwd` y `/etc/hosts` en la salida estandar.
 `4-lastlines` muestra las ultimas 10 lineas de `/etc/passwd`.
+`5-firstlines` muestra las primeras 10 lineas de `/etc/passwd`.
