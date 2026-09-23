@@ -15,4 +15,5 @@
 `14-findthatword` muestra las lineas que contienen el partron `root` del archivo `/etc/passwd`.
 `15-countthatword` muestra el numero de lineas que contiene el patron "bin" en el archivo `/etc/passwd`.
 `16-whatsnext` muestra las lineas que contienen el patron "root" y tres lineas despues de ellas del archivo `/etc/passwd`.
+`17-hidethisword` muestra todas las lineas que no coinciden con el patron "bin" en el archivo `/etc/passwd`.
  
