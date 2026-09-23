@@ -9,4 +9,5 @@
 `8-cwd_state` guarda el estado actual del directorio.
 `9-duplicate_last_line` duplica la ultima linea del archivo `iacta`.
 `10-no_more_js` elimina todos los archivos regulares con extension `.js` que estan presentes en el directorio actual y sus subdirectorios.
+`11-directories`cuenta el numero de directorios y subdirectorios en el directorio actual, incluyendo los ocultos, sin tener en cuenta el directorio actual ni el directorio padre.
  
