@@ -13,4 +13,5 @@
 `12-newest_files` oredena los archivos del mas nuevo al mas antiguo mostrando las primeras 10 lineas.
 `13-unique` toma una lista de palabras e imprime solo las que aparecen una vez. 
 `14-findthatword` muestra las lineas que contienen el partron `root` del archivo `/etc/passwd`.
+`15-countthatword` muestra el numero de lineas que contiene el patron "bin" en el archivo `/etc/passwd`.
  
