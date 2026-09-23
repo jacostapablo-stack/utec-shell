@@ -12,4 +12,5 @@
 `11-directories`cuenta el numero de directorios y subdirectorios en el directorio actual, incluyendo los ocultos, sin tener en cuenta el directorio actual ni el directorio padre.
 `12-newest_files` oredena los archivos del mas nuevo al mas antiguo mostrando las primeras 10 lineas.
 `13-unique` toma una lista de palabras e imprime solo las que aparecen una vez. 
+`14-findthatword` muestra las lineas que contienen el partron `root` del archivo `/etc/passwd`.
  
