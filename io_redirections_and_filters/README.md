@@ -18,4 +18,5 @@
 `17-hidethisword` muestra todas las lineas que no coinciden con el patron "bin" en el archivo `/etc/passwd`.
 `18-letteronly`muestra todas las lineas del archivo `/etc/ssh/sshd_config` que comienzan con una letra. 
 `19-AZ` Reemplaza todos los caracteres `A` y `c` de la entrada por `Z` y `e`, respectivamente.
+`20-hiago`elimina todas las letras `c` y `C` de la entrada.
  
