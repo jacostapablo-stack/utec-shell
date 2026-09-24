@@ -20,4 +20,5 @@
 `19-AZ` Reemplaza todos los caracteres `A` y `c` de la entrada por `Z` y `e`, respectivamente.
 `20-hiago`elimina todas las letras `c` y `C` de la entrada.
 `21-reverse` invierte su entrada. 
+`22-users_and_homes` muestra todos los usuarios y sus directorios de inicio, ordenados por usuario. Basado en el archivo `/etc/passwd`.
  
