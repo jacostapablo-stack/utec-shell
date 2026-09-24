@@ -21,4 +21,5 @@
 `20-hiago`elimina todas las letras `c` y `C` de la entrada.
 `21-reverse` invierte su entrada. 
 `22-users_and_homes` muestra todos los usuarios y sus directorios de inicio, ordenados por usuario. Basado en el archivo `/etc/passwd`.
+`23-empty_casks` encuentra todos los archivos y directorios vacios en el directorio actual y subdirectorios.
  
