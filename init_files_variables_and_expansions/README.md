@@ -4,3 +4,4 @@
 `3-paths` cuenta el numero de directorios en el `PATH`.
 `4-global_variables` crea una lista de las variables de entorno.
 `5-local_varaibles` crea una lista de las variables locales, de entorno, y las funciones.
+`6-create_local_variable` crea la variable local `BEST` con el valor `School`.
