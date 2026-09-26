@@ -6,3 +6,4 @@
 `5-local_varaibles` crea una lista de las variables locales, de entorno, y las funciones.
 `6-create_local_variable` crea la variable local `BEST` con el valor `School`.
 `7-create_global_variable` crea la variable global `BEST` con el valor `School`.
+`8-true_knowledge` imprime el resultado de la suma de 128 con el valor alamacenado en la variable de entorno `TRUEKNOWLEDGE` seguido de una nueva linea.
