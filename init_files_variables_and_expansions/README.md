@@ -8,3 +8,4 @@
 `7-create_global_variable` crea la variable global `BEST` con el valor `School`.
 `8-true_knowledge` imprime el resultado de la suma de 128 con el valor alamacenado en la variable de entorno `TRUEKNOWLEDGE` seguido de una nueva linea.
 `9-divide_and_rule` imprime el resultado de la division de `POWER` y `DIVIDE` seguido de una linea.
+`10-love_exponent_breath` imprime es resultado de `BREATH` elevado a la potencia de `LOVE` seguido de una linea.
