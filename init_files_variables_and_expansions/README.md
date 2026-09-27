@@ -9,3 +9,4 @@
 `8-true_knowledge` imprime el resultado de la suma de 128 con el valor alamacenado en la variable de entorno `TRUEKNOWLEDGE` seguido de una nueva linea.
 `9-divide_and_rule` imprime el resultado de la division de `POWER` y `DIVIDE` seguido de una linea.
 `10-love_exponent_breath` imprime es resultado de `BREATH` elevado a la potencia de `LOVE` seguido de una linea.
+`11-11-binary_to_decimal` convierte un numero de base 2 a base 10.
