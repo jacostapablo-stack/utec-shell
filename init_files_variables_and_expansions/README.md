@@ -12,3 +12,4 @@
 `11-11-binary_to_decimal` convierte un numero de base 2 a base 10.
 `12-combinations` imprime combinaciones de dos letras de `a-z`menos `oo`.
 `13-print_float` imprime un numero con dos decimales seguido de una nueva linea.
+`14-decimal_to_hexadecimal` convierte un numero de base 10 a base 16.
