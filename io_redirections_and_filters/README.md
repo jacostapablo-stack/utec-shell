@@ -22,4 +22,4 @@
 `21-reverse` invierte su entrada. 
 `22-users_and_homes` muestra todos los usuarios y sus directorios de inicio, ordenados por usuario. Basado en el archivo `/etc/passwd`.
 `23-empty_casks` encuentra todos los archivos y directorios vacios en el directorio actual y subdirectorios.
- 
+`24-gifs` lista todos los archivos con extension `.gif` en el directorio actual y todos sus subdirectorios. 
